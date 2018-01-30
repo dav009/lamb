@@ -36,3 +36,5 @@ This is useful when you are developing + testing your lambda function integratio
 5. press `tab` again to go back to the lambda-list buffer
 6. press `enter` at anytime to refresh logs
 
+if you have an overwhelming number of lambda functions you can do:
+`lamb projectname` to only list lambdas containing `projectname` in their name
