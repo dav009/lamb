@@ -34,4 +34,5 @@ This is useful when you are developing + testing your lambda function integratio
 3. select your lambda and press enter to load/re-load a lambda function logs
 4. press `tab` to switch to the log buffer to scroll up and down
 5. press `tab` again to go back to the lambda-list buffer
+6. press `enter` at anytime to refresh logs
 
