@@ -21,10 +21,10 @@ This is useful when you are developing + testing your lambda function integratio
 
 ## Installation
 
-`go get github.com/aws/aws-sdk-go`
-`go get github.com/jroimartin/gocui`
-`go get github.com/dav009/lamb`
-`go install github.com/dav009/lamb`
+- `go get github.com/aws/aws-sdk-go`
+- `go get github.com/jroimartin/gocui`
+- `go get github.com/dav009/lamb`
+- `go install github.com/dav009/lamb`
 
 ## Usage
 
