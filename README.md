@@ -1,3 +1,5 @@
+![](https://github.com/dav009/lamb/raw/master/sheep.png)
+
 # Lamb
 
 Lamb is a support tool when developing AWS Lambda Functions.
