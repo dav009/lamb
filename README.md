@@ -25,6 +25,8 @@ This is useful when you are developing + testing your lambda function integratio
 - `go get github.com/dav009/lamb`
 - `go install github.com/dav009/lamb`
 
+or get a prebuilt binary for [MacOS](https://github.com/dav009/lamb/releases/download/0.1/lamb_0.1_amd64_osx)
+
 ## Usage
 
 
