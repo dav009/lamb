@@ -13,9 +13,8 @@ This is useful when you are developing + testing your lambda function integratio
 
 ## Demo
 
-[![asciicast](https://asciinema.org/a/fP11ggkj7bbkYXjLmh9AsJwvL.png)](https://asciinema.org/a/fP11ggkj7bbkYXjLmh9AsJwvL)
+![](https://github.com/dav009/lamb/raw/master/lamb.gif)
 
-[![asciicast](https://asciinema.org/a/hB1TVgZSwlKkiWiFkSDdmD0wT.png)](https://asciinema.org/a/hB1TVgZSwlKkiWiFkSDdmD0wT)
 
 
 
